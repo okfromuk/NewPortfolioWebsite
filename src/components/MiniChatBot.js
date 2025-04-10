@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
-import { MessageSquare, X, Mic, MicOff } from "lucide-react";
+import { MessageSquare, X } from "lucide-react";
 
 export default function MiniChatBot() {
   const [show, setShow] = useState(false);

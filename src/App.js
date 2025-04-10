@@ -18,7 +18,6 @@ import Contact from './components/Contact';
 import Footer from './components/Footer';
 import SuccessStories from "./components/SuccessStories";
 import FAQs from "./components/FAQs";
-import ClientLogos from "./components/ClientLogos";
 import ChatBot from "./components/MiniChatBot";
 // function App() {
 //   return (
