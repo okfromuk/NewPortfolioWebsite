@@ -41,7 +41,7 @@ export default function About() {
           </h2>
 
           <p className="text-lg md:text-xl text-gray-700 leading-relaxed mb-4">
-            Hey, I’m <strong className="text-blue-700">Omkar Karve</strong> — a
+            Hey, I’m <strong className="text-blue-700">Omkar V Karve</strong> — a
             detail-driven Full Stack Developer with <strong>4+ years</strong> of
             hands-on experience in building modern web applications using{" "}
             <strong>React, Redux, Node.js, AWS, and PostgreSQL</strong>.
